@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df43ee73-1194-4a23-9762-bc2fa2f78cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GuessMovieName.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/ScoreManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/FileUtils.java" afterDir="false" />
+    <list default="true" id="df43ee73-1194-4a23-9762-bc2fa2f78cf0" name="Changes" comment="Creo la estructura que creo que tendrá el programa">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Paul-Gomez/GomezPaulPractica3",
+    "accountId": "42bddd1f-5f45-40ae-ba67-8d7782c45a31"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -46,6 +44,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,6 +61,47 @@
       <option name="presentableId" value="Default" />
       <updated>1735926281668</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creo la estructura que creo que tendrá el programa.">
+      <option name="closed" value="true" />
+      <created>1735926645541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735926645541</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creo la estructura que creo que tendrá el programa.">
+      <option name="closed" value="true" />
+      <created>1735926668738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735926668738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creo la estructura que creo que tendrá el programa">
+      <option name="closed" value="true" />
+      <created>1735926731621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735926731621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creo la estructura que creo que tendrá el programa." />
+    <MESSAGE value="Creo la estructura que creo que tendrá el programa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creo la estructura que creo que tendrá el programa" />
   </component>
 </project>
